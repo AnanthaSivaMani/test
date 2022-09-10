@@ -1,0 +1,7 @@
+JSP Servlets
+1.https://www.javatpoint.com/crud-in-jsp
+2.https://www.javatpoint.com/registration-form-in-jsp
+
+
+Spring MVC
+1.https://www.javatpoint.com/spring-mvc-crud-example

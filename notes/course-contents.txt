@@ -1,0 +1,33 @@
+course contents:
+Intro
+1.git & github
+2.Web Application Introduction
+3.MVC Architecture
+4.Jsp Servlet basics with project
+5.Spring MVC basics with project including db connectivity
+6.Software Architecture Introduction 
+
+Spring Boot
+5.Difference between monolithic vs microservices architecture
+6.Implement microservices with spring boot
+7.CRUD REST API using JPA with hibernate
+8.Tesing Spring boot Application using Jnit and Mockito
+8.Communication between different microservices
+
+
+Advanced:
+9.Spring Boot Security using OATH2 and JWT
+10.CI-CD(Continuous Integreation and Continuous Delivery) using Jenkins,docker and kubernetes
+
+Frontend(Angluar/ReactJS)
+11.Angular/ReactJS Basics
+12.Calling REST API from angular or reactJS
+13.Developing End to End Web Application
+
+
+
+
+
+
+Note:
+Weekly Surprise Interview will be conducted. Expect questions from core java,java8,jsp and servlets

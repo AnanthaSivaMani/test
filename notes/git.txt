@@ -1,0 +1,27 @@
+source: https://www.youtube.com/watch?v=hTYsf6bdSJ8
+How to install git in windows?
+Step 1: Download git from https://git-scm.com/download/win based on your OS
+Step 2: Once file is downloaded open and click next for all the popups and click finish.
+Step 3: Now you can see gitbash software in your start menu.
+
+Git - software
+Github - repository(like a server to store our project)
+
+
+git commands
+git clone <repo url from github> - this command will download the project from a repository in your local
+git add - choose which are the files you like to add in git repository
+git status - 
+git commit -am - add all your changes to repo
+git checkout
+git branch
+
+
+
+.gitignore - you can specify file/folder which will not participate in git
+
+
+git branching strategy
+master
+feature
+bugfix

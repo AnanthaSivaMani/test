@@ -1,0 +1,30 @@
+1.OOPS(including interface and abstract class need to know when to use what)
+2.Collections with programs using java8
+3.basic design patterns(singleton,Factory,builder) 
+4.Serializable,Externalizable interface
+5.java 8 (funtional interface,stream api )
+6.Threads (ExecuterService,Completable,Callable interface....) - https://www.youtube.com/watch?v=mGjlWrhhNF0&list=PLZkgjBpLveVTz629oAvG5_N7RRc0kLX1Y
+
+
+health care management system https://github.com/Sid1608/E-HealthCare-Management-System
+understand this project and modify as per the OOPS design
+
+learn MVC(Model View Controller) pattern (very important to understand frameworks)-spring, spring boot,servlets,
+DB design (one to many, many to one, one to one, many to many)
+
+
+Employee
+	id,name,salary,
+
+List<Employee> empList = new ArrayList<>();
+int filetredEmployee=empList.stream().filter(e -> e.salary>10000).count();
+
+
+
+welcome file - google.com
+
+java  8 coding questions - https://www.youtube.com/watch?v=1pweZskNq7w
+
+framework - https://www.youtube.com/c/JavaBrainsChannel
+core java - https://www.youtube.com/watch?v=8cm1x4bC610
+frontend - https://www.youtube.com/c/HiteshChoudharydotcom
